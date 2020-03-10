@@ -1,8 +1,10 @@
 package hello;
 
 public class HelloWorld {
-	public static void main(String args[]) {
-		System.out.println("Hello world");
-	}
+    public static void main(String args[]) {
+
+    	System.out.println("Hello world");
+    	System.out.println("这是来自idea的修改");
+    }
 
 }
